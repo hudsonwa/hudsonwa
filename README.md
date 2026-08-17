@@ -12,7 +12,7 @@ GitHub: [hudsonwa](https://github.com/hudsonwa)
 
 ## Projects
 
-PowerBridge (private preview, coming onto this account)
+**PowerBridge** (private preview on this account)
 
 A bidirectional EasyLanguage / PowerLanguage to Python transpiler. Write and test in Python, emit compile-safe EL for live platforms. Fail-loud: it would rather stop than guess.
 
