@@ -2,8 +2,6 @@
 
 Systematic futures trader (S&P 500) for 20+ years. I enjoy writing python, as well as learning, building and testing new projects.
 
-GitHub: [hudsonwa](https://github.com/hudsonwa)
-
 ## What I work on
 
 - Trading research in Python, with a careful path back to MultiCharts et al.
