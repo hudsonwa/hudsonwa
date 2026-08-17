@@ -1,6 +1,6 @@
 # Josh Hudson
 
-Systematic futures trader (S&P 500) for 20+ years. I enjoy writing python, as well as learning and testing new projects.
+Systematic futures trader (S&P 500) for 20+ years. I enjoy writing python, as well as learning, building and testing new projects.
 
 GitHub: [hudsonwa](https://github.com/hudsonwa)
 
